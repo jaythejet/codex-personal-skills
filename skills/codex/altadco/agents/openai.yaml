@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alta DCO"
+  short_description: "Complete and save Alta discharge OASIS forms"
+  default_prompt: "Use $altadco to complete this Alta DCO from the dictated PT discharge findings."

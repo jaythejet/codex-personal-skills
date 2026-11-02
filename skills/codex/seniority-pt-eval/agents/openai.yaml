@@ -1,0 +1,4 @@
+interface:
+  display_name: "SENIORITY PT Evaluation"
+  short_description: "Draft SENIORITY PT evaluations from records"
+  default_prompt: "Use $seniority-pt-eval to prepare the current SENIORITY PT evaluation from the matching Gmail PDFs."

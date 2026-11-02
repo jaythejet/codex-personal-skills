@@ -1,0 +1,4 @@
+interface:
+  display_name: "SENIORITY PT Follow-Up"
+  short_description: "Draft and save unsigned PT progress notes"
+  default_prompt: "Use $seniority-pt-follow-up to complete the selected SENIORITY PT follow-up progress note."

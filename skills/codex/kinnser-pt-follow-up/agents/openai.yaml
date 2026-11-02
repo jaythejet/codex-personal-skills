@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kinnser PT Follow-up"
+  short_description: "Chart Kinnser PT follow-ups with visit defaults"
+  default_prompt: "Use $kinnser-pt-follow-up to update the current PT Visit from my findings, add the vitals comment and next-visit plan, and save it unsigned unless I explicitly authorize submission."

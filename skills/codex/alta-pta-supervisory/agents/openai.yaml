@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alta PTA Supervisory"
+  short_description: "Prepare Alta PTA supervisory coordination notes"
+  default_prompt: "Use $alta-pta-supervisory to prepare a PTA supervisory care coordination note in Alta."

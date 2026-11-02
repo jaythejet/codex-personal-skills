@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kinnser General Eval"
+  short_description: "Fill accurate Kinnser PT general evaluations"
+  default_prompt: "Use $kinnser-general-eval to fill this PT General Evaluation in my open Kinnser browser tab from the available records and my findings."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SENIORITY PT Discharge"
+  short_description: "Draft and save unsigned UltraHHC PT discharge notes"
+  default_prompt: "Use $seniority-pt-discharge to draft and save this SENIORITY PT discharge note unsigned."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alta PFR"
+  short_description: "Copy and update Alta PT re-evaluations"
+  default_prompt: "Use $alta-pfr to copy a prior Alta PFR or PT evaluation into a new PFR and apply my dictated changes."

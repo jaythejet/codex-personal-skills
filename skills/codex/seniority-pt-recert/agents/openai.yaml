@@ -1,0 +1,4 @@
+interface:
+  display_name: "SENIORITY PT Recert"
+  short_description: "Carry PT data into unsigned recertification notes"
+  default_prompt: "Use $seniority-pt-recert to update the current SENIORITY PT recertification without removing existing content."

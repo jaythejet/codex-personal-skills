@@ -1,0 +1,6 @@
+interface:
+  display_name: "Veertech PT Charting"
+  short_description: "Edit embedded Veertech home-health PT forms"
+  default_prompt: "Use $veertech-pt-charting to update the open Veertech PT form from my dictated findings."
+policy:
+  allow_implicit_invocation: true

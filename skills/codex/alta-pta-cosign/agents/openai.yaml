@@ -1,0 +1,4 @@
+interface:
+  display_name: "ALTA PTA Co-sign"
+  short_description: "Review and co-sign ALTA PTA follow-up notes"
+  default_prompt: "Use $alta-pta-cosign to review and co-sign all eligible PTA follow-up notes on the current ALTA patient chart."

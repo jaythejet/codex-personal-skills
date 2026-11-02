@@ -1,0 +1,4 @@
+interface:
+  display_name: "SENIORITY OASIS Recert"
+  short_description: "Copy and update SENIORITY OASIS recerts"
+  default_prompt: "Use $seniority-recert to carry the newest prior signed RECERT into the current SENIORITY OASIS recert and apply my current findings."
